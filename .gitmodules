@@ -1,0 +1,3 @@
+[submodule "formvalidator-swift"]
+	path = formvalidator-swift
+	url = https://github.com/ustwo/formvalidator-swift.git
